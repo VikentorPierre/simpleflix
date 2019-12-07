@@ -1,0 +1,63 @@
+.about-sec {
+  display: flex;
+  flex-direction: column;
+}
+.about-info {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2em;
+}
+
+.about-img-wrap {
+}
+.about-img {
+  margin: 0 auto;
+  display: flex;
+  width: 100%;
+}
+
+.about-text {
+  align-self: center;
+  margin: 0 5px;
+}
+/* .about-info h1,
+p {
+  align-self: center;
+  margin: 0 5px;
+  /* width: 50%; */
+
+.about-info h1 {
+  font-family: 'Calistoga', cursive;
+  font-size: x-large;
+  font-weight: 800;
+  margin-bottom: 1em;
+}
+.about-info p {
+  font-family: 'Calistoga', cursive;
+  line-break: loose;
+  font-size: medium;
+  color: black;
+  line-height: 1.5;
+}
+
+@media (min-width: 410px) {
+  .about-img {
+    width: 80%;
+  }
+}
+@media (min-width: 500px) {
+  .about-img {
+    width: 70%;
+  }
+}
+
+@media (min-width: 700px) {
+  .about-img {
+    width: 50%;
+    margin: 0;
+  }
+  .about-text {
+    width: 50%;
+    align-self: flex-end;
+  }
+}
