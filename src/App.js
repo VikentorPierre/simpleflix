@@ -9,7 +9,7 @@ import './App.css';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={window.location.pathname || ''}>
       <div className='App'>
         <Navbar />
         <Switch>
