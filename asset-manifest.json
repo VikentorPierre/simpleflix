@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/simpleflix/static/css/main.2d810b7b.chunk.css",
-    "main.js": "/simpleflix/static/js/main.90c58040.chunk.js",
-    "main.js.map": "/simpleflix/static/js/main.90c58040.chunk.js.map",
+    "main.js": "/simpleflix/static/js/main.fa374289.chunk.js",
+    "main.js.map": "/simpleflix/static/js/main.fa374289.chunk.js.map",
     "runtime-main.js": "/simpleflix/static/js/runtime-main.5e11ca37.js",
     "runtime-main.js.map": "/simpleflix/static/js/runtime-main.5e11ca37.js.map",
     "static/js/2.c474e5f7.chunk.js": "/simpleflix/static/js/2.c474e5f7.chunk.js",
     "static/js/2.c474e5f7.chunk.js.map": "/simpleflix/static/js/2.c474e5f7.chunk.js.map",
     "index.html": "/simpleflix/index.html",
-    "precache-manifest.1b3a53c4c2e5946961a01e7044ae1405.js": "/simpleflix/precache-manifest.1b3a53c4c2e5946961a01e7044ae1405.js",
+    "precache-manifest.bb9aaa563898da00561a22e518c4a3c2.js": "/simpleflix/precache-manifest.bb9aaa563898da00561a22e518c4a3c2.js",
     "service-worker.js": "/simpleflix/service-worker.js",
     "static/css/main.2d810b7b.chunk.css.map": "/simpleflix/static/css/main.2d810b7b.chunk.css.map",
     "static/media/Twitter.png": "/simpleflix/static/media/Twitter.4b514fbf.png",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.5e11ca37.js",
     "static/js/2.c474e5f7.chunk.js",
     "static/css/main.2d810b7b.chunk.css",
-    "static/js/main.90c58040.chunk.js"
+    "static/js/main.fa374289.chunk.js"
   ]
 }

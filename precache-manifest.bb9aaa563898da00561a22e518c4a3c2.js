@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d996164bf0d3867c7fb021f80cab0c5",
+    "revision": "a5b5fc798e844c93b8dc243dc888391a",
     "url": "/simpleflix/index.html"
   },
   {
-    "revision": "21d77af68323f3a4aa2a",
+    "revision": "3ed1543afd08e7a04a0c",
     "url": "/simpleflix/static/css/main.2d810b7b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simpleflix/static/js/2.c474e5f7.chunk.js"
   },
   {
-    "revision": "21d77af68323f3a4aa2a",
-    "url": "/simpleflix/static/js/main.90c58040.chunk.js"
+    "revision": "3ed1543afd08e7a04a0c",
+    "url": "/simpleflix/static/js/main.fa374289.chunk.js"
   },
   {
     "revision": "d9e358a58d86265a15a5",
