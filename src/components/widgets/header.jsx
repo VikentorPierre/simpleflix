@@ -18,7 +18,8 @@ const Header = () => {
         <nav class='nav-menu-wrap'>
           <ul class='nav-menu'>
             <li>
-              <a href='/#work-sec'> Work</a>
+              <NavLink to='/'> Work </NavLink>
+              {/* <a href='/#work-sec'> Work</a> */}
             </li>
             <li>
               <NavLink to='/photoshoot'> Photos </NavLink>
