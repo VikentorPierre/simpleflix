@@ -1,22 +1,28 @@
 {
   "files": {
     "main.css": "/simpleflix/static/css/main.2d810b7b.chunk.css",
-    "main.js": "/simpleflix/static/js/main.fa374289.chunk.js",
-    "main.js.map": "/simpleflix/static/js/main.fa374289.chunk.js.map",
+    "main.js": "/simpleflix/static/js/main.f412cb37.chunk.js",
+    "main.js.map": "/simpleflix/static/js/main.f412cb37.chunk.js.map",
     "runtime-main.js": "/simpleflix/static/js/runtime-main.5e11ca37.js",
     "runtime-main.js.map": "/simpleflix/static/js/runtime-main.5e11ca37.js.map",
-    "static/js/2.c474e5f7.chunk.js": "/simpleflix/static/js/2.c474e5f7.chunk.js",
-    "static/js/2.c474e5f7.chunk.js.map": "/simpleflix/static/js/2.c474e5f7.chunk.js.map",
+    "static/js/2.3b291698.chunk.js": "/simpleflix/static/js/2.3b291698.chunk.js",
+    "static/js/2.3b291698.chunk.js.map": "/simpleflix/static/js/2.3b291698.chunk.js.map",
     "index.html": "/simpleflix/index.html",
-    "precache-manifest.bb9aaa563898da00561a22e518c4a3c2.js": "/simpleflix/precache-manifest.bb9aaa563898da00561a22e518c4a3c2.js",
+    "precache-manifest.41b1715291393da5b140702215d0e8c4.js": "/simpleflix/precache-manifest.41b1715291393da5b140702215d0e8c4.js",
     "service-worker.js": "/simpleflix/service-worker.js",
     "static/css/main.2d810b7b.chunk.css.map": "/simpleflix/static/css/main.2d810b7b.chunk.css.map",
     "static/media/Twitter.png": "/simpleflix/static/media/Twitter.4b514fbf.png",
     "static/media/image3.png": "/simpleflix/static/media/image3.353f215b.png",
+    "static/media/img01.jpg": "/simpleflix/static/media/img01.375f7215.jpg",
+    "static/media/img02.jpg": "/simpleflix/static/media/img02.faabbd07.jpg",
+    "static/media/img03.jpg": "/simpleflix/static/media/img03.71fc2684.jpg",
+    "static/media/img11.jpg": "/simpleflix/static/media/img11.17b4b7d5.jpg",
+    "static/media/img33.jpg": "/simpleflix/static/media/img33.1c9289f2.jpg",
+    "static/media/img333.jpg": "/simpleflix/static/media/img333.2705f282.jpg",
     "static/media/insta.png": "/simpleflix/static/media/insta.f778aa42.png",
     "static/media/logo1.png": "/simpleflix/static/media/logo1.95b93e1d.png",
     "static/media/mail.png": "/simpleflix/static/media/mail.d6873c34.png",
-    "static/media/me.jpg": "/simpleflix/static/media/me.cfc77a24.jpg",
+    "static/media/mepic.jpg": "/simpleflix/static/media/mepic.ebdbc95a.jpg",
     "static/media/vid2.PNG": "/simpleflix/static/media/vid2.9c4efddb.PNG",
     "static/media/vid3.PNG": "/simpleflix/static/media/vid3.0c07600c.PNG",
     "static/media/vid4.PNG": "/simpleflix/static/media/vid4.61ee32a5.PNG",
@@ -24,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5e11ca37.js",
-    "static/js/2.c474e5f7.chunk.js",
+    "static/js/2.3b291698.chunk.js",
     "static/css/main.2d810b7b.chunk.css",
-    "static/js/main.fa374289.chunk.js"
+    "static/js/main.f412cb37.chunk.js"
   ]
 }
