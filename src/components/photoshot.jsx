@@ -1,6 +1,14 @@
 import React from 'react';
 import '../css/home.css';
 import '../css/photoshot.css';
+
+import img03 from '../img/img03.jpg';
+import img33 from '../img/img33.jpg';
+import img333 from '../img/img333.jpg';
+
+import img01 from '../img/img01.jpg';
+import img11 from '../img/img11.jpg';
+import img02 from '../img/img02.jpg';
 const Photoshot = () => {
   return (
     <main className='main-content-container'>
@@ -10,44 +18,26 @@ const Photoshot = () => {
         </div>
         <div className='grid-container'>
           <div className='photoshoot-pic-wrapper'>
-            <img
-              src='https://www.dropbox.com/s/ps8j2p6rlu5cprv/Hawk5.jpg?raw=1'
-              className='photoshoot-pic'
-              alt=' pic'
-            />
+            <img src={img03} className='photoshoot-pic' alt=' pic' />
           </div>
 
           <div className='photoshoot-pic-wrapper'>
-            <img
-              src='https://www.dropbox.com/s/ps8j2p6rlu5cprv/Hawk5.jpg?raw=1'
-              src='https://www.dropbox.com/s/u4midsmfbfy1uj8/Hawk1.jpg?raw=1'
-              className='photoshoot-pic'
-              alt=' pic'
-            />
+            <img src={img33} className='photoshoot-pic' alt=' pic' />
           </div>
 
           <div className='photoshoot-pic-wrapper'>
-            <img
-              src='https://www.dropbox.com/s/lpcdp4v8b0c66k0/Hawk9.jpg?raw=1'
-              className='photoshoot-pic'
-              alt=' pic'
-            />
+            <img src={img333} className='photoshoot-pic' alt=' pic' />
           </div>
 
           <div className='photoshoot-pic-wrapper'>
-            <img
-              src='https://www.dropbox.com/s/01g64c4brbcwknc/Tb1.jpg?raw=1'
-              className='photoshoot-pic'
-              alt=' pic'
-            />
+            <img src={img01} className='photoshoot-pic' alt=' pic' />
           </div>
 
           <div className='photoshoot-pic-wrapper'>
-            <img
-              src='https://www.dropbox.com/s/0241imaqc0n6xi8/Tb4.jpg?raw=1'
-              className='photoshoot-pic'
-              alt=' pic'
-            />
+            <img src={img11} className='photoshoot-pic' alt=' pic' />
+          </div>
+          <div className='photoshoot-pic-wrapper'>
+            <img src={img02} className='photoshoot-pic' alt=' pic' />
           </div>
         </div>
       </section>

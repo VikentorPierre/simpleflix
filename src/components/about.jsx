@@ -1,12 +1,17 @@
 import React from 'react';
 import '../css/home.css';
-import me from '../img/me.jpg';
+import me from '../img/mepic.jpg';
 import '../css/about.css';
 const About = () => {
   return (
     <main className='main-content-container'>
       <section className='about-sec'>
         <div className='about-img-wrap'>
+          {/* <img
+            className='about-img'
+            src='https://www.dropbox.com/s/5yuq7v0hye656v1/Main%20Pic2.jpg?raw=1'
+            alt='a picture of me'
+          /> */}
           <img className='about-img' src={me} alt=' pick of me ' />
         </div>
         <article className='about-info'>
