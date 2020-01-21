@@ -22,5 +22,6 @@
 } */
 .App {
   min-height: 100vh;
-  background-image: linear-gradient(to bottom right, #ffcdfe, #ffeda3, #9be8fa);
+  background-image: url('./img/Simpleflix.jpg');
+  /* background-image: linear-gradient(to bottom right, #ffcdfe, #ffeda3, #9be8fa); */
 }

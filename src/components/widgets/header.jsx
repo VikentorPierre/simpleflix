@@ -30,10 +30,12 @@ const Header = () => {
           </ul>
         </nav>
         <div className='social-icon'>
-          <a href='#'>
+          <a href='https://twitter.com/awkwardtv' target='_blank'>
             <img className='test-img' src={twitter} alt='' />
           </a>
-          <a href='https://www.instagram.com/rognbuda/' target='_blank'>
+          <a
+            href='https://www.instagram.com/simpleflixproductions/'
+            target='_blank'>
             <img className='test-img' src={insta} alt='' />
           </a>
         </div>

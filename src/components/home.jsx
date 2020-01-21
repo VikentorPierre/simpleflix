@@ -38,7 +38,7 @@ const Home = () => {
     <main className='main-content-container'>
       <header className='header-home-sec'>
         <h1 className='header-home-sec-text'>
-          Say somthing cool, like a line or a quote or somthing funny
+          The effect you have on others is the best currency there is
         </h1>
       </header>
       <section className='home-hero-video'>

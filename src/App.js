@@ -6,6 +6,7 @@ import About from './components/about';
 import Photoshot from './components/photoshot';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import './App.css';
+//import backgroundImg from './img/Simpleflix.jpg';
 
 function App() {
   return (

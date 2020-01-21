@@ -12,13 +12,13 @@ const Footer = () => {
           &copy; Copyright 2020, Simpleflix Productions
         </span>
         <div className='footer-social-icon'>
-          <a href='#'>
+          <a href='https://twitter.com/awkwardtv' target='_blank'>
             <img className='test-img' src={twitter} alt='' />
           </a>
           <a href='https://www.instagram.com/rognbuda/' target='_blank'>
             <img className='test-img' src={insta} alt='' />
           </a>
-          <a href='#'>
+          <a href='mailto:ngorsworld@gmail.com' target='_blank'>
             <img className='test-img' src={mail} alt='' />
           </a>
         </div>
